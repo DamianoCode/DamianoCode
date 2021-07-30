@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamianoCode
 - 👀 I’m interested in fronted development, cryptocurrencies and I love playing games :smile: 
-- 🌱 I’m currently learning GSAP,ReactJS and polished HTML/CSS/JS skills
+- 🌱 I’m currently learning GSAP,VueJS and polished HTML/CSS/JS skills
 - 📫 If you wanna contact with me: [Linkedin](https://www.linkedin.com/in/damian-u%C5%82a%C5%9B-4b3656187/) [Email](damianulas@gmail.com) 
 
 <!---
