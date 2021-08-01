@@ -18,7 +18,7 @@
 
 ---
 
-### Connect with me:
+### Contact with me:
 
 <a target="_blank" href="mailto:damianulas@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
