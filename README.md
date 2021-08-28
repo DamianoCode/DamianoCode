@@ -2,6 +2,7 @@
 - 👀 I’m interested in frontend development, cryptocurrencies and I love playing games :smile: 
 - 🌱 I’m currently intensively learning Vuejs
 - 🥅 2021 Goals: Create more interesting projects and find a job 🧑‍💼
+- 🖊️ Not every projects/exercieses push on github I also use <a target="_blank" href="https://codepen.io/damianocode">Codepen</a>
 
 ### Languages and Tools:
 
@@ -25,7 +26,6 @@
 </a>
 
 [<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://damianocode.github.io/)
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TakieTamIWiecej/)
 [<img align="left" alt="line | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/damian-ulas/)
 
 <br />
