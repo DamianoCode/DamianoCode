@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Damian aka @DamianoCode
 - 👀 I’m interested in frontend development, cryptocurrencies and I love playing games :smile: 
 - 🌱 I’m currently intensively learning React/NextJS/NodeJS
-- 🥅 2022 Goals: Create more interesting projects 🧑‍💼
+- 🥅 2024 Goals: Learn NextJS, Zustand, Testing
 - 🖊️ Not every projects/exercieses push on github I also use <a target="_blank" href="https://codepen.io/damianocode">Codepen</a>
 
 ### Languages and Tools:
