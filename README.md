@@ -19,8 +19,6 @@
 	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 </div>
 
-<br />
-
 ---
 
 ### Contact with me:
