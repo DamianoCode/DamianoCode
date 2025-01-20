@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Damian
 - 👀 I’m interested in frontend development, cryptocurrencies and I love playing games :smile: 
 - 🌱 I’m currently intensively learning NextJS and TypeScript
-- 🥅 2024 Goals: Learn NextJS, Zustand, Testing
+- 🥅 2025 Goals: Learn NextJS/Astro, Testing
 
 ### Languages and Tools: 
 
