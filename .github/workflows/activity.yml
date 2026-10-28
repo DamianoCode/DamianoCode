@@ -1,0 +1,37 @@
+name: Update profile activity
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update-activity.mjs
+      - .github/workflows/activity.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate contribution graphs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/update-activity.mjs
+      - name: Save updated graphs
+        run: |
+          git add assets/activity-light.svg assets/activity-dark.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Refresh contribution activity [skip ci]"
+          git push

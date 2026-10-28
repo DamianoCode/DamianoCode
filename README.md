@@ -1,33 +1,53 @@
-## 👋 Hi, I’m Damian
-- 👀 I’m interested in frontend development, cryptocurrencies and I love playing games :smile: 
-- 🌱 I’m currently intensively learning NextJS and TypeScript
-- 🥅 2026 Goals: Learn NextJS/Astro, AI Tools and prompting
+<img src="./assets/header.webp" width="100%" alt="Three coding agents wait beside an empty chair. Red headphones and a brb note mark the human's place." />
 
-### Languages and Tools: 
+[English](./README.md) · [Polski](./README.pl.md)
 
-<div align="center">
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
-</div>
+# Damian Ułaś
+
+**I build apps. I herd agents.**
+
+Full-stack developer from Zamość, Poland. I build web apps from database to interface with **Next.js, TypeScript and PostgreSQL**, and tools that make working with coding agents more predictable. I set the direction, review the changes and own what ships.
+
+[Portfolio ↗](https://damianocode.github.io/) · [LinkedIn ↗](https://www.linkedin.com/in/damian-ulas/) · [Email ↗](mailto:damianulas@gmail.com)
+
+## Selected work
+
+### [PlaceMates](https://github.com/DamianoCode/PlaceMates)
+
+A shared map for saving places, rating spots and planning trips with friends. **Next.js · PostgreSQL / PostGIS · Supabase · MapLibre**
+
+[Try it ↗](https://placemates.pl) · [Code ↗](https://github.com/DamianoCode/PlaceMates)
+
+### [Claudius](https://github.com/DamianoCode/claudius)
+
+A Claude Code workflow that scales implementation to engineering risk, with contracts and independent review. **Markdown skills · JavaScript hooks · Git worktrees**
+
+[Explore the workflow ↗](https://github.com/DamianoCode/claudius)
+
+### [Claude Widget](https://github.com/DamianoCode/claude-widget)
+
+A Windows widget for tracking coding sessions, pending approvals, context and usage. **C# · .NET · WPF · TypeScript**
+
+[Code ↗](https://github.com/DamianoCode/claude-widget) · [Download ↗](https://github.com/DamianoCode/claude-widget/releases/latest)
+
+## Toolbox
+
+- **Web:** TypeScript, React, Next.js, Astro, Tailwind CSS.
+- **Data & backend:** PostgreSQL, PostGIS, Supabase, Drizzle, Prisma, Node.js, Zod.
+- **Desktop & workflow:** C#, .NET, WPF, Git, Claude Code.
+
+## Recent activity
+
+<a href="https://github.com/DamianoCode?tab=overview#year-list-container">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
+    <img src="./assets/activity-light.svg" width="100%" alt="GitHub contributions over the last 31 days, updated daily." />
+  </picture>
+</a>
 
 ---
 
-### Contact with me:
+Cycling, games, manga and comics. Berserk, Daredevil and Ferrari F1 — a regular exercise in managing expectations.
 
-<a target="_blank" href="mailto:damianulas@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-[<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://damianocode.github.io/)
-[<img align="left" alt="line | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/damian-ulas/)
-
-<br />
-
+<sub>Human in the loop. Occasionally away from the chair.</sub>
