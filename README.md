@@ -4,7 +4,7 @@
 
 # Damian Ułaś
 
-**I build apps. I herd agents.**
+**I build apps. I wrangle agents.**
 
 Full-stack developer from Zamość, Poland. I build web apps from database to interface with **Next.js, TypeScript and PostgreSQL**, and tools that make working with coding agents more predictable. I set the direction, review the changes and own what ships.
 
